@@ -1,2 +1,33 @@
 
 /* Your CSS Code here. */
+
+.row{
+    background-color: brown;
+    height: 200px;
+    border: 1px dotted black;
+    
+}
+.colu{
+    border-left: 1px dashed black;
+    border-right: 1px dashed black;
+}
+
+.r1c1{
+    background-color: rgb(36, 241, 173);
+}
+.r1c2{
+    background-color: rgb(119, 73, 119)
+}
+.r2c1{
+    background-color: orange;
+    margin-left: 100px;
+}
+.r2c2{
+    background-color: aqua;
+}
+.r3c1{
+    background-color: rgb(119, 73, 119);
+}
+.r3c2{
+    background-color: greenyellow;
+}
